@@ -1,4 +1,4 @@
-# OSM converter
+# OSM Mapper
 
 Convert Open Street Map .pdb to .osm and slect node and edge as csv.
 After that, draw as an image.
