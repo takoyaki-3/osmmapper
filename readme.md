@@ -3,6 +3,13 @@
 Convert Open Street Map .pdb to .osm and slect node and edge as csv.
 After that, draw as an image.
 
+## Dependency
+
+- OS : Windows pro or Ubuntu
+- Docker
+- Docker Compose
+- g++
+
 ## How to use
 
 ### 1. Edit map URL
